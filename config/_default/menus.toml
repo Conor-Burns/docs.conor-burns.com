@@ -33,22 +33,10 @@
 ######################################################################################################
 
 [[main]]
-  name = "Instructions"
+  name = "Belastungsanalyse"
   weight = 10
-  identifier = "instructions"
-  url = "/instructions/"
-
-[[main]]
-  name = "Basics"
-  weight = 20
-  identifier = "basics"
-  url = "basics/soldering/solder-advice/"
-
-[[main]]
-  name = "Troubleshooting"
-  weight = 30
-  identifier = "troubleshooting"
-  url = "/troubleshooting/hardware/usb-c/"
+  identifier = "belastungsanalyse"
+  url = "/belastungsanalyse/"
 
 ######################################################################################################
 
