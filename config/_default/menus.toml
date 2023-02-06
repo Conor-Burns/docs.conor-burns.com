@@ -18,20 +18,6 @@
 
 ######################################################################################################
 
-[[troubleshooting]]
-  name = "Hardware"
-  weight = 10
-  identifier = "hardware"
-  url = "/troubleshooting/hardware"
-
-  [[troubleshooting]]
-  name = "Firmware"
-  weight = 20
-  identifier = "firmware"
-  url = "/troubleshooting/firmware"
-
-######################################################################################################
-
 [[main]]
   name = "Belastungsanalyse"
   weight = 10

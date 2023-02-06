@@ -1,10 +1,10 @@
 # Meta Data for SEO
 
 ## Homepage
-title = "KeebSupply"
+title = "Inventor"
 titleSeparator = "-"
 titleAddition = "Docs"
-description = "Documentation for everything related to KeebSupply."
+description = "Autodesk Inventor Anleitungen."
 
 ## Documentation
 # docsVersion = "0.3"
@@ -12,8 +12,8 @@ description = "Documentation for everything related to KeebSupply."
 ## Open Graph
 images = ["doks.png"]
 ogLocale = "en_US"
-domainTLD = "docs.keeb.supply"
-titleHome = "KeebSupply Docs"
+domainTLD = "docs.conor-burns.com"
+titleHome = "Inventor Docs"
 
 ## Twitter Cards
 twitterSite = ""
@@ -65,7 +65,7 @@ defaultImage = "default-image.png" # put in `./assets/images/`
 fillImage = "1024x768 Center" # normalize image size
 
 # Footer
-footer = "Shop now on <a class=\"text-muted\" href=\"https://keeb.supply/\">KeebSupply</a> - Our <a class=\"text-muted\" href=\"https://github.com/0xcb-dev/\">GitHub</a>"
+footer = "Copyright (c) 2023 Burns, Kriener, Oberdörfer"
 
 # Feed
 copyRight = "Copyright (c) 2022 Burns & Kriener Keyboards GbR"
@@ -80,7 +80,7 @@ alertText = "Introducing the Doks child theme, several DX + UX updates, and more
 # repoHost [Github | Gitea | GitLab | Bitbucket | BitbucketServer ] is used for building the edit link based on git hoster
 repoHost = "GitHub"
 #repoHost = "Gitea"
-docsRepo = "https://github.com/0xCB-dev/docs.keeb.supply"
+docsRepo = "https://github.com/Conor-Burns/docs.conor-burns.com"
 docsRepoBranch = "main"
 docsRepoSubPath = ""
 editPage = true

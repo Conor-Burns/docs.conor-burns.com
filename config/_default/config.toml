@@ -1,4 +1,4 @@
-baseurl = "https://docs.keeb.supply/"
+baseurl = "https://docs.conor-burns.com/"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
