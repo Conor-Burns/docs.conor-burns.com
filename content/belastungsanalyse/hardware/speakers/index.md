@@ -28,5 +28,3 @@ One more advanced feature is outputting [MIDI](https://github.com/qmk/qmk_firmwa
 ## Soldering
 
 They're really easy to solder. You just have to solder the two exposed legs to the pads on the PCB (like soldering kailh hotswap sockets) **orientation does not matter**.
-
-Feel free to check out the general soldering advice [here]({{< relref "/basics/soldering/solder-advice" >}}).
