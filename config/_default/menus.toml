@@ -1,20 +1,26 @@
-[[basics]]
-  name = "Soldering"
+[[belastungsanalyse]]
+  name = "Grundlagen"
   weight = 10
-  identifier = "soldering"
-  url = "/basics/soldering"
-
-[[basics]]
-  name = "Hardware"
+  identifier = "grundlagen"
+  url = "/belatungsanalyse/grundlagen"
+  
+[[belastungsanalyse]]
+  name = "Funktion"
   weight = 20
-  identifier = "hardware"
-  url = "/basics/hardware"
-
-[[basics]]
-  name = "Firmware"
+  identifier = "funktion"
+  url = "/belatungsanalyse/funktion"
+  
+[[belastungsanalyse]]
+  name = "Anwendung"
   weight = 30
-  identifier = "firmware"
-  url = "/basics/firmware"
+  identifier = "anwendung"
+  url = "/belatungsanalyse/anwendung"
+  
+[[belastungsanalyse]]
+  name = "Limits"
+  weight = 40
+  identifier = "limits"
+  url = "/belatungsanalyse/limits"
 
 ######################################################################################################
 
@@ -23,7 +29,7 @@
   weight = 10
   identifier = "belastungsanalyse"
   url = "/belastungsanalyse/"
-
+  
 ######################################################################################################
 
 [[social]]
