@@ -28,7 +28,7 @@
   name = "Belastungsanalyse"
   weight = 10
   identifier = "belastungsanalyse"
-  url = "/belastungsanalyse/"
+  url = "/belastungsanalyse/grundlagen/definition/"
   
 ######################################################################################################
 
