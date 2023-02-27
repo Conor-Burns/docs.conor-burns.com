@@ -2,25 +2,25 @@
   name = "Grundlagen"
   weight = 10
   identifier = "grundlagen"
-  url = "/belatungsanalyse/grundlagen"
+  url = "/belastungsanalyse/grundlagen"
   
 [[belastungsanalyse]]
   name = "Funktion"
   weight = 20
   identifier = "funktion"
-  url = "/belatungsanalyse/funktion"
+  url = "/belastungsanalyse/funktion"
   
 [[belastungsanalyse]]
   name = "Anwendung"
   weight = 30
   identifier = "anwendung"
-  url = "/belatungsanalyse/anwendung"
+  url = "/belastungsanalyse/anwendung"
   
 [[belastungsanalyse]]
   name = "Limits"
   weight = 40
   identifier = "limits"
-  url = "/belatungsanalyse/limits"
+  url = "/belastungsanalyse/limits"
 
 ######################################################################################################
 
