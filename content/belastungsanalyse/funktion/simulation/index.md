@@ -9,6 +9,6 @@ images: []
 menu:
   belastungsanalyse:
     parent: "funktion"
-weight: 30
+weight: 1030
 toc: true
 ---

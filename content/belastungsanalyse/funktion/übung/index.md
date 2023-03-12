@@ -9,5 +9,5 @@ images: []
 menu:
   belastungsanalyse:
     parent: "funktion"
-weight: 10
+weight: 1010
 ---

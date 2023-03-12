@@ -9,6 +9,6 @@ images: []
 menu:
   belastungsanalyse:
     parent: "anwendung"
-weight: 10
+weight: 2010
 toc: true
 ---
