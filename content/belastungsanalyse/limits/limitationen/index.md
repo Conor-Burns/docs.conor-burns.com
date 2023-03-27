@@ -12,3 +12,10 @@ menu:
 weight: 3020
 toc: true
 ---
+
+- Ungenaue Modelle können zu ungenauen Ergebnissen führen
+- Ungenaue Materialdaten können die Genauigkeit der Ergebnisse beeinträchtigen
+- Vereinfachte Annahmen können ungenaue Ergebnisse liefern, wenn sie nicht korrekt sind
+- Komplexe Geometrien erfordern zusätzliche Arbeit, um genaue Ergebnisse zu validieren
+- Belastungsanalysen erfordern oft viel Rechenleistung, insbesondere bei komplexen Modellen
+- Es ist wichtig, über ausreichende Kenntnisse in der Ingenieurwissenschaft zu verfügen, um die Ergebnisse angemessen zu interpretieren und zu nutzen.
