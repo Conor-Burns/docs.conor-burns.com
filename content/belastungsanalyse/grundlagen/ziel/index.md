@@ -18,7 +18,7 @@ Die Belastungsanalyse hat verschiedene Ziele, die je nach Anwendungsbereich und 
 1. Bestimmung der maximalen Belastung:
 {{< alert icon="👀" text="Die Belastungsanalyse soll die maximale Belastungen bestimmen, denen ein Produkt ausgesetzt werden kan, ohne dass es zu Versagen oder bleibenden Verformungen kommt. Dies hilft, das Produkt sicher und zuverlässig zu machen." />}}
 2. Vorhersagen des Verhaltens:
-{{< alert icon"👀" text="Die Belastungsanalyse soll das Verhalten des Produkts unter verschiedenen Belastungen vorhersagen, um festzustellen, ob das Produkt seinen Anforderungen entspricht." />}}
+{{< alert icon="🤯" text="Die Belastungsanalyse soll das Verhalten des Produkts unter verschiedenen Belastungen vorhersagen, um festzustellen, ob das Produkt seinen Anforderungen entspricht." />}}
 3. Identifizierung von Schwachstellen:
 {{< alert icon="😬" text="Die Belastungsanalyse soll Schwachstellen im Design aufdecken und Möglichkeiten zur Verbesserung aufzeigen. Dabei kann es sich um geometrische Fehler, Materialdefekte oder unerwartete Belastungseinwirkungen handeln." />}}
 4. Optimierung des Designs:
