@@ -24,6 +24,9 @@ Am Anfang müssen wir ein paar grundlegende Einstellungen tätigen.
 
 In der oberen Leiste im Menü `3D-Menü` könnt ihr auf den Punkt `Belastungsanalyse` klicken.
 
+![Belastungsanalyse_Button]()
+
+
 ## Materialien festlegen
 
 Damit Inventor weiß, welche Eigenschaften ein Bauteil hat, muss man ihm ein Material zuweisen.
