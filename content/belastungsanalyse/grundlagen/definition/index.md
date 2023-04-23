@@ -15,19 +15,19 @@ toc: true
 
 ## Zielsetzung
 
-In dieser Dokumentation werden wir Ihnen die Grundlagen der Belastungsanalyse näher bringen.
+In dieser Dokumentation werden wir euch die Grundlagen der Belastungsanalyse näher bringen.
 
-In [Funktion]({{<ref "/belastungsanalyse/funktion/übung">}}) werden Sie selber mit einer Schritt für Schritt Anleitung eine Belastungsanalyse durchführen. 
+In [Funktion]({{<ref "/belastungsanalyse/funktion/übung">}}) werdet Ihr selber mit einer Schritt für Schritt Anleitung eine Belastungsanalyse durchführen. 
 Hierdrunter fällt:
-- Materialien zuweisen
+- Materialien dzuweisen
 - Abhängigkeiten definieren
 - Lasten und Belastungen definieren
 - Durchführen einer Simulation
 - Interpretation der Ergebnisse
 
 
-Auch werden wir ihnen unterschiedliche [Anwendungsbeispiele]({{<ref "/belastungsanalyse/anwendung/maschbau">}}) aus der Industrie liefern, um den Sinn einer Belastungsanalyse zu verstehen.
+Auch werden wir unterschiedliche [Anwendungsbeispiele]({{<ref "/belastungsanalyse/anwendung/maschbau">}}) aus der Industrie liefern, damit Ihr den Sinn einer Belastungsanalyse versteht.
 
-Zum Schluss werden wir Ihnen [Vor- und Nachteile]({{<ref "/belastungsanalyse/anwendung/maschbau">}}) aufzeigen um die Limits der Belastungsanalyse darzustellen.
+Zum Schluss werden wir euch [Vor- und Nachteile]({{<ref "/belastungsanalyse/anwendung/maschbau">}}) aufzeigen um die Limits der Belastungsanalyse darzustellen.
 
-Mit dieser Dokumentation erhoffen wir Ihnen einen Einblick in die Belastungsanalyse zu geben, sodass Sie auf den Inhalten dieser Dokumentation weiter aufbauen können.
+Mit dieser Dokumentation erhoffen wir, euch einen Einblick in die Belastungsanalyse zu geben, sodass Ihr auf den Inhalten dieser Dokumentation weiter aufbauen können.
