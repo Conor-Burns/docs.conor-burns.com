@@ -37,6 +37,8 @@ Ihr werdet nun sehen, dass sich links ein Menü öffnet. Dieses gibt euch einen 
 
 Dieses Menü ist eine sehr gute Übersicht über alles, was getan werden muss, um eine Belastungsanalyse durchzuführen.
 
+{{< alert icon="💡" text="Ihr könnt für alle Unterpunkte auch einen Rechtsklick verwenden. Damit öffnet sich eine Schnellauswahl an Funktionen für den Unterpunkt." />}}
+
 ## Materialien festlegen
 
 Damit Inventor weiß, welche Eigenschaften ein Bauteil hat, muss man ihm ein Material zuweisen.
@@ -60,6 +62,16 @@ Bei unserem Stuhl bietet es sich an, die 4 Beine unten auf dem Boden zu fixieren
 
 ## Lasten und Belastungen definieren
 
-## Durchführung der Simulation
+Nachdem wir nun Abhängigkeiten für unser Bauteil festgelegt haben, müssen wir definieren, wo Kräfte auf unser Bauteil wirken. Hierzu haben wir unterschiedliche Lasten, die wir benutzen können.
+![Kraefte_Auswählen]()
 
-## Interpretation der Ergebnisse
+Für einen ersten Versuch, können wir eine einfache Kraft definieren. Klickt dazu einfach auf die Flächen, auf die die Kräfte wirken sollen. In unserem Beispiel lassen wir 880N auf unsere Stuhlfläche wirken.
+![Kraefte_Definieren]()
+
+## Durchführung der Simulation
+Nun haben wir alles definiert, was wir für eine Belastungsanalyse brauchen. Nun müssen wir einfach nur noch auf `Simulieren` drücken und Inventor erstellt uns eine Belastungsanalyse.
+![Simulation]()
+
+## Netze
+Wenn wir unsere Analyse erstellt haben, haben wir noch die Möglichkeit eine Netzansicht auszuwählen. Damit kann man besser sehen, wie sich unsere Oberflächen verformen.
+![Simulation_Netz]()
