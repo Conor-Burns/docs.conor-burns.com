@@ -63,15 +63,24 @@ Bei unserem Stuhl bietet es sich an, die 4 Beine unten auf dem Boden zu fixieren
 ## Lasten und Belastungen definieren
 
 Nachdem wir nun Abhängigkeiten für unser Bauteil festgelegt haben, müssen wir definieren, wo Kräfte auf unser Bauteil wirken. Hierzu haben wir unterschiedliche Lasten, die wir benutzen können.
-![Kraefte_Auswählen]()
+![Lasten_Menu](Lasten_Menu.PNG)
 
 Für einen ersten Versuch, können wir eine einfache Kraft definieren. Klickt dazu einfach auf die Flächen, auf die die Kräfte wirken sollen. In unserem Beispiel lassen wir 880N auf unsere Stuhlfläche wirken.
-![Kraefte_Definieren]()
+![Kraefte_definieren](Kraefte_definieren.PNG)
+
+Wenn wir mehrere Lasten definieren wollen ist hierbei wieder unser Menü links hilfreich. Mit einem klick auf den kleinen Pfeil bei `Lasten` bekommen wir eine Übersicht über alle Lasten die auf unserem Bauteil wirken.<br />
+![Lasten_Uebersicht](Lasten_Uebersicht.PNG)
 
 ## Durchführung der Simulation
 Nun haben wir alles definiert, was wir für eine Belastungsanalyse brauchen. Nun müssen wir einfach nur noch auf `Simulieren` drücken und Inventor erstellt uns eine Belastungsanalyse.
-![Simulation]()
+![Simulatieren](Simulieren.PNG)
+
+Danach bekommen wir eine Ansicht, die ungefähr so aussehen sollte.
+![Simulation](Simulation.PNG)
 
 ## Netze
-Wenn wir unsere Analyse erstellt haben, haben wir noch die Möglichkeit eine Netzansicht auszuwählen. Damit kann man besser sehen, wie sich unsere Oberflächen verformen.
-![Simulation_Netz]()
+Wenn wir unsere Analyse erstellt haben, haben wir noch die Möglichkeit eine Netzansicht auszuwählen. Damit kann man besser sehen, wie sich unsere Oberflächen verformen.<br />
+![Netzansicht](Netzansicht.PNG)
+
+Danach wird unser Bauteil so aussehen.
+![Netz](Netz.PNG)
