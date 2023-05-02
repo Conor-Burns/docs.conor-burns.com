@@ -16,7 +16,7 @@ In dieser Übung werden wir eine Belastungsanalyse Schritt für Schritt zusammen
 
 ## Bauteil konstruieren
 
-Bevor wir eine Belastungsanalyse durchführen können, brauchen wir ein Bauteil mit dem wir arbeiten können. Klickt Klickt <a href="https://files.conor-burns.com/docs/Stuhl.pdf" target="_blank" rel="noopener"
+Bevor wir eine Belastungsanalyse durchführen können, brauchen wir ein Bauteil mit dem wir arbeiten können. Klickt <a href="https://files.conor-burns.com/docs/Stuhl.pdf" target="_blank" rel="noopener"
         role="button">hier</a> für eine technische Zeichnung von dem Bauteil mit welchem wir weiter arbeiten werden.
 ![Stuhl](Stuhl.PNG)
 
