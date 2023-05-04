@@ -19,12 +19,10 @@ In dieser Dokumentation werden wir euch die Grundlagen der Belastungsanalyse nä
 
 In der Kategorie [Funktion]({{<ref "/belastungsanalyse/funktion/übung">}}) werdet Ihr selber mit einer Schritt für Schritt Anleitung eine Belastungsanalyse durchführen. 
 Hierbei werden ihr:
-- [Materialien zuweisen]({{<ref "/belastungsanalyse/funktion/übung##materialien-festlegen">}})
-- Abhängigkeiten definieren
-- Lasten und Belastungen definieren
-- eine Simulation durchführen
-- die Ergebnisse Interpretieren
-
+- [Materialien zuweisen]({{<ref "/belastungsanalyse/funktion/übung#materialien-festlegen">}})
+- [Abhängigkeiten definieren]({{<ref "/belastungsanalyse/funktion/übung#abhängigkeiten-definieren">}})
+- [Lasten und Belastungen definieren]({{<ref "/belastungsanalyse/funktion/übung#lasten-und-belastungen-definieren">}})
+- [eine Simulation durchführen]({{<ref "/belastungsanalyse/funktion/übung#durchführung-der-simulation">}})
 
 Auch werden wir [Anwendungsbeispiele]({{<ref "/belastungsanalyse/anwendung/maschbau">}}) aus der Industrie liefern, damit Ihr den Sinn einer Belastungsanalyse versteht.
 
