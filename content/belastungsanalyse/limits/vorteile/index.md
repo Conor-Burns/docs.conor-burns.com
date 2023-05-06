@@ -13,8 +13,13 @@ weight: 3010
 toc: true
 ---
 
-- Bessere Produktleistung
-- Reduzierte Kosten
-- Bessere Produktzuverlässigkeit
 - Schnellere Produktentwicklung
+- Reduzierte Kosten
+- Bessere Produktleistung
+- Bessere Produktzuverlässigkeit
 - Sicherheitsverbesserungen
+
+![Speed](sped.jpg)
+
+Die genannten Faktoren sind stark miteinander verknüpft.
+Zum Beispiel führen eine schnelleren Entwicklung und eine bessere Produktleistung zwangsläufig zu sinkende Kosten.

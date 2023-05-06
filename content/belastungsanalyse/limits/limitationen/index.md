@@ -19,3 +19,13 @@ toc: true
 - Komplexe Geometrien erfordern zusätzliche Arbeit, um genaue Ergebnisse zu validieren
 - Belastungsanalysen erfordern oft viel Rechenleistung, insbesondere bei komplexen Modellen
 - Es ist wichtig, über ausreichende Kenntnisse in der Ingenieurwissenschaft zu verfügen, um die Ergebnisse angemessen zu interpretieren und zu nutzen.
+
+Hier ein Prozessüberblick und die jeweilige Fehleranfälligkeit:
+
+![Error](error.jpg)
+
+- Idealisierung: sehr hoch
+- Diskretisierung: moderat
+- Lösung: sehr gering
+- Auswerung: gering
+- Bewertung: hoch
