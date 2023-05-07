@@ -9,7 +9,7 @@ images: []
 menu:
   belastungsanalyse:
     parent: "funktion"
-weight: 1010
+weight: 3010
 ---
 
 In dieser Übung werden wir eine Belastungsanalyse Schritt für Schritt zusammen durchführen. Wir werden hierbei nur auf die Grundlagen eingehen, auf die nachher aufgebaut werden kann.

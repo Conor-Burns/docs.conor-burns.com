@@ -9,7 +9,7 @@ images: []
 menu:
   belastungsanalyse:
     parent: "limits"
-weight: 3020
+weight: 2020
 toc: true
 ---
 

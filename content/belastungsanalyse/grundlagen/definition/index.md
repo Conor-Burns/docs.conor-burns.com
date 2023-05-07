@@ -1,7 +1,7 @@
 ---
-title: "Erläuterung"
-description: "Einführung in die Grundlagen der Belastungsanalyse"
-lead: "Einführung in die Grundlagen der Belastungsanalyse"
+title: "Zielsetzung"
+description: "Zielsetzung dieser Dokumentation"
+lead: "Zielsetzung dieser Dokumentation"
 date: 2020-10-13T15:21:01+02:00
 lastmod: 2020-10-13T15:21:01+02:00
 draft: false
@@ -12,8 +12,6 @@ menu:
 weight: 10
 toc: true
 ---
-
-## Zielsetzung
 
 In dieser Dokumentation werden wir euch die Grundlagen der Belastungsanalyse näher bringen.
 
@@ -28,4 +26,4 @@ Auch werden wir [Anwendungsbeispiele]({{<ref "/belastungsanalyse/anwendung/masch
 
 Zum Schluss werden wir euch [Vor- und Nachteile]({{<ref "/belastungsanalyse/limits/vorteile">}}) aufzeigen um die Limits der Belastungsanalyse darzustellen.
 
-Mit dieser Dokumentation erhoffen wir, euch einen Einblick in die Belastungsanalyse zu geben, sodass Ihr auf den Inhalten dieser Dokumentation weiter aufbauen können.
+Mit dieser Dokumentation erhoffen wir, euch einen ersten Einblick in die Belastungsanalyse zu geben, sodass Ihr auf den Inhalten dieser Dokumentation weiter aufbauen können.
