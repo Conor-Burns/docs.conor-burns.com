@@ -9203,7 +9203,7 @@ textarea.form-control-lg {
 
 /** Import highlight.js */
 /** Import docsearch */
-/*! @docsearch/css 3.3.3 | MIT License | © Algolia, Inc. and contributors | https://docsearch.algolia.com */
+/*! @docsearch/css 3.3.4 | MIT License | © Algolia, Inc. and contributors | https://docsearch.algolia.com */
 :root {
   --docsearch-primary-color:#5468ff;
   --docsearch-text-color:#1c1e21;
@@ -9914,11 +9914,13 @@ svg.DocSearch-Hit-Select-Icon {
   text-rendering: auto; }
 
 .katex * {
-  -ms-high-contrast-adjust: none !important;
+  -ms-high-contrast-adjust: none !important; }
+
+.katex * {
   border-color: currentColor; }
 
 .katex .katex-version::after {
-  content: "0.16.4"; }
+  content: "0.16.7"; }
 
 .katex .katex-mathml {
   /* Accessibility hack to only show to screen readers
