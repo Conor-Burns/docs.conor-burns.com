@@ -25,6 +25,6 @@ Die Belastungsanalyse wird auch in der Luft- und Raumfahrtindustrie verwendet. E
 ![Flugzeugfluegel](Flugzeugfluegel.jpg)
 
 Trotz der Fähigkeit von Inventor, die Belastung von Bauteilen und Baugruppen zu analysieren, gibt es spezialisierte Software, die für die Analyse komplexer Systeme besser geeignet ist. ANSYS ist ein Beispiel dafür, eine umfassende FEM-Software, die in verschiedenen Branchen wie der Automobil- und Raumfahrtindustrie verwendet wird. ANSYS löst komplexe Ingenieurprobleme mit Funktionen wie Strukturanalyse, Strömungsanalyse und elektromagnetischer Analyse. Es ist jedoch teurer als Inventor und erfordert mehr Training und Anwendung.
-![Karroserie](Karroserie.jpg)
+![Karroserie](Karroserie.png)
 
 Um sicherzustellen, dass Bauteile und Baugruppen den Belastungen standhalten können, denen sie während ihres Betriebs ausgesetzt sind, ist die Belastungsanalyse ein wichtiger Bestandteil des Konstruktionsprozesses. Inventor und ANSYS sind leistungsstarke Tools, die Ingenieure und Techniker dabei unterstützen, Probleme frühzeitig zu erkennen und zu beheben, um Zeit und Kosten zu sparen und die Produktsicherheit zu erhöhen.
